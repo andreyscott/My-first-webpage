@@ -25,6 +25,11 @@
       border-width: 500px;
 
   }
+  .head {
+    color: white;
+    font-size: 210;
+    font-family: monospace;
+  }
   a {
       background-color: rgba(0, 0, 0, .9);
       text-align: center;
