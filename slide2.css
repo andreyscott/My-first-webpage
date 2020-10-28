@@ -8,13 +8,13 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  background: #333;
+  background: #333;s
   color: #fff;
   line-height: 1.6;
 }
 p {
   font-style: italic;
-  font-family: 'Roboto', 'Oxygen', monospace;
+  font-family: 'Roboto', monospace;
   font-weight: 100%;
   line-height: 20px;
 
