@@ -13,10 +13,10 @@ body {
   line-height: 1.6;
 }
 p {
-  text-transform: uppercase;
   font-style: italic;
-  font-weight: 120%;
-  line-height: 30px;
+  font-family: 'Roboto', 'Oxygen', monospace;
+  font-weight: 100%;
+  line-height: 20px;
 
 }
 
